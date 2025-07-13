@@ -68,3 +68,9 @@ Note: `[space]` is URL-encoded as `%20`
 Most of the effort is done by the following package:
 
 * https://github.com/reiver/go-e164
+
+## RUNNING
+
+The default TCP-port for the HTTP server is `8080`.
+
+To set it to another value use the `PORT` environment-variable.

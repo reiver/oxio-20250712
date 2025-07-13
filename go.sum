@@ -1,7 +1,7 @@
 github.com/fatih/structs v1.1.0 h1:Q7juDM0QtcnhCpeyLGQKyg4TOIghuNXrkL32pHAUMxo=
 github.com/fatih/structs v1.1.0/go.mod h1:9NiDSp5zOcgEDl+j00MP/WkGVPOlPRLejGD8Ga6PJ7M=
-github.com/reiver/go-e164 v0.0.0-20250713032022-a5e3d8edad9b h1:DcYR2CU0X+dZrUHoPQ+2e55Xc1f6Hu0Nqo8LxLgBsgY=
-github.com/reiver/go-e164 v0.0.0-20250713032022-a5e3d8edad9b/go.mod h1:3HkzDBIvmmqD/vX4FFv3DbwA88sj7cxQAovUYDexynI=
+github.com/reiver/go-e164 v0.0.0-20250713042946-72cce107397d h1:jV8nm0vXewM2TvHm/pyI5KSqkerWZlIY0yOPdXQDMDM=
+github.com/reiver/go-e164 v0.0.0-20250713042946-72cce107397d/go.mod h1:3HkzDBIvmmqD/vX4FFv3DbwA88sj7cxQAovUYDexynI=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f h1:D1QSxKHm8U73XhjsW3SFLkT0zT5pKJi+1KGboMhY1Rk=
 github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f/go.mod h1:F0HbBf+Ak2ZlE8YkDW4Y+KxaUmT0KaaIJK6CXY3cJxE=
 github.com/reiver/go-http400 v0.0.0-20250528125814-c9872b77629f h1:HYwyot06pIjhAPUBbYP8L4aUSeM/4q8b97c3Pfq2xEo=

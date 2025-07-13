@@ -3,7 +3,7 @@ module github.com/reiver/oxio-20250712
 go 1.24.3
 
 require (
-	github.com/reiver/go-e164 v0.0.0-20250713032022-a5e3d8edad9b
+	github.com/reiver/go-e164 v0.0.0-20250713042946-72cce107397d
 	github.com/reiver/go-erorr v0.0.0-20240801233437-8cbde6d1fa3f
 	github.com/reiver/go-http400 v0.0.0-20250528125814-c9872b77629f
 	github.com/reiver/go-http500 v0.0.0-20250531141625-af98f83e19aa

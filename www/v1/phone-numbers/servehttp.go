@@ -61,8 +61,8 @@ func serveHTTP(responsewriter http.ResponseWriter, request *http.Request) {
 		if nil != err {
 			var errResult = ErrResult{
 				PhoneNumber: queryPhoneNumberValue,
-				Error: err.Error(),
 			}
+			errResult.SetError(err)
 
 			responsewriter.Header().Add("Content-Type", "application/json")
 			json.NewEncoder(responsewriter).Encode(errResult)
@@ -75,8 +75,8 @@ func serveHTTP(responsewriter http.ResponseWriter, request *http.Request) {
 		if nil != err {
 			var errResult = ErrResult{
 				PhoneNumber: queryPhoneNumberValue,
-				Error: err.Error(),
 			}
+			errResult.SetError(err)
 
 			responsewriter.Header().Add("Content-Type", "application/json")
 			json.NewEncoder(responsewriter).Encode(errResult)

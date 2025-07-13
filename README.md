@@ -56,7 +56,7 @@ Note: `[space]` is URL-encoded as `%20`
 
 ```json
 {
-	phoneNumber": "25690123",
+	"phoneNumber": "25690123",
 	"error": {
 		"countryCode": "required value is missing"
 	}

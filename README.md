@@ -69,19 +69,19 @@ Most of the effort is done by the following package:
 
 * https://github.com/reiver/go-e164
 
-## BUILDING
+## Building
 
 To build the executable file, run:
 
 `go build`
 
-## RUNNING
+## Running
 
 To run this, run:
 
 `./oxio-20250712`
 
-### TCP-PORT
+### TCP-port
 
 The default TCP-port for the HTTP server is `8080`.
 

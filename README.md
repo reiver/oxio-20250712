@@ -63,3 +63,8 @@ Note: `[space]` is URL-encoded as `%20`
 }
 ```
 
+## Hacking
+
+Most of the effort is done by the following package:
+
+* https://github.com/reiver/go-e164
